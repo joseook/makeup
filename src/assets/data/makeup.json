@@ -1,0 +1,23 @@
+{
+  "makeups": [
+    {
+      "Title": "Makeup01",
+      "AboutMakeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra ipsum nunc aliquet bibendum enim. ",
+      "ImgMake": "https://th.bing.com/th/id/R.e75f83587986b4952016dfafa5132f86?rik=h%2fnRN20iG97N5Q&pid=ImgRaw&r=0",
+      "Status": "Estoque"
+    },
+    {
+      "Title": "Makeup02",
+      "AboutMakeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra ipsum nunc aliquet bibendum enim. ",
+      "ImgMake": "https://th.bing.com/th/id/R.324d5f3fbfaf25ba85c6378f8dba4026?rik=gnIrD2CUq4wHbQ&pid=ImgRaw&r=0",
+      "Status": "Fora de estoque"
+    },
+    {
+      "Title": "Makeup03",
+      "AboutMakeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra ipsum nunc aliquet bibendum enim. ",
+      "ImgMake": "https://th.bing.com/th/id/OIP.OPsJyf3YpgWXP-K8FwPF9AHaGX?rs=1&pid=ImgDetMain",
+      "Status": "Estoque"
+    }
+
+  ]
+}
